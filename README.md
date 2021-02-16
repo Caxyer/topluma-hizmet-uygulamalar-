@@ -1,7 +1,7 @@
 # topluma-hizmet-uygulamalari
 ************************************************
-##**Sertifikalar Sertifikalar Dizinindedir.**##
-Kanatlı Hayvan Yetiştiriciliği ** 85 **
+##Sertifikalar Sertifikalar Dizinindedir.##
+Kanatlı Hayvan Yetiştiriciliği **85**
 İlk Yardım Sertifikası **85**
 İşaret Dili Sertifikasında **95** puan aldım.
 ************************************************
